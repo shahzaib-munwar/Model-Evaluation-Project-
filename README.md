@@ -48,8 +48,7 @@ Encoded the classes as '1' and '0' to feed to the model
 
   USERS CAN ALSO INSTALL THESE LIBRARIES BY WRITTING THE "PIP INSTALL PANDAS, NUMPY, SEABORN, MATPLOTLIB, SICKITLEARN" IN THE TERMINAL
   
-                                                        OR
-                                                        
+                                             
   USERS CAN ALSO INSTALL THESE LIBRARIES BY GIVING THE EACH PIP COMMAND FOR EACH LIBRARY SEPARETLY.
 --
 --
