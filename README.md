@@ -53,7 +53,7 @@ Encoded the classes as '1' and '0' to feed to the model
 --
 **Lab Structure**
 --
-Install & import libraries 
+Install & import libraries\n
 Load and explore dataset 
 Train-test split 
 Feature scaling 
