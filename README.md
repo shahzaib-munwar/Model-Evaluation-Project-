@@ -46,7 +46,7 @@ Encoded the classes as '1' and '0' to feed to the model
 --
 --
 **Lab Structure**
-
+--
 Install & import libraries 
 Load and explore dataset 
 Train-test split 
