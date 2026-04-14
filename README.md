@@ -21,7 +21,9 @@ Logistic Regression
 K-Nearest Neighbors (KNN)
 Random Forest
 --
+
 --
+
 **Dataset USED**
 
 **Breast Cancer Dataset** imported using scikit-learn
@@ -32,7 +34,6 @@ Encoded the classes as '1' and '0' to feed to the model
   `1` = Benign
   Clean binary classification dataset, ideal for teaching evaluation metrics
 --
-
 
 --
 **LIBRARIES REQUIRED**
