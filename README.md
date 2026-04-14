@@ -1,9 +1,9 @@
 **This project is about the EVALUATION OF MODELS**
 Shows the hands on experience on the machine learning, pandas, numpy, python, sickit learn.
---
-**SKILLS IMPLEMENTED**
 
-##Load and explore a real-world classification dataset.
+**SKILLS IMPLEMENTED**
+--
+Load and explore a real-world classification dataset.
 
 Split data into training and testing sets.
 
@@ -39,6 +39,7 @@ Random Forest
 **Targeted classes:**
 
 Encoded the classes as '1' and '0' to feed to the model 
+
   `0` = Malignant
   
   `1` = Benign
@@ -73,15 +74,25 @@ Encoded the classes as '1' and '0' to feed to the model
 Install & import libraries
 
    Load and explore dataset 
+   
    Train-test split 
+   
    Feature scaling 
+   
    Logistic Regression (train, evaluate, confusion matrix) 
+   
    KNN (train, evaluate, confusion matrix) 
+   
    Random Forest (train, evaluate, confusion matrix) 
+   
    Model comparison table 
+   
    ROC curves 
+   
    Best model selection 
+   
    Addditional  tasks (KNN & Random Forest tuning) 
+   
    Reflection questions 
 
 ## IDE USED :
