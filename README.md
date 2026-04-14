@@ -1,6 +1,6 @@
 **This project is about the EVALUATION OF MODELS**
 Shows the hands on experience on the machine learning, pandas, numpy, python, sickit learn.
-
+--
 **SKILLS IMPLEMENTED**
 --
 Load and explore a real-world classification dataset.
@@ -17,11 +17,11 @@ Evaluate models using:
    Recall
    F1-Score
    ROC-AUC
-Create and interpret confusion matrices
+Create and interpret confusion matrices.
 
-Plot ROC curves for model comparison
+Plot ROC curves for model comparison.
 
-Choose the best model based on business context
+Choose the best model based on business context.
 
  **Models Used**
 --
@@ -38,19 +38,19 @@ Random Forest
 
 **Targeted classes:**
 
-Encoded the classes as '1' and '0' to feed to the model 
+Encoded the classes as '1' and '0' to feed to the model .
 
   `0` = Malignant
   
   `1` = Benign
   
-  Clean binary classification dataset, ideal for teaching evaluation metrics
+  Clean binary classification dataset, ideal for teaching evaluation metrics.
 
 
 
 **LIBRARIES REQUIRED**
 --
-  USER SHOULD MUST HAVE THE FOLLOWING LIBRARIES AND FRAMEWORK OF PYTHON LANGUAGE INSTALLED TO GET DONE WITH THE PROJECT
+  USER SHOULD MUST HAVE THE FOLLOWING LIBRARIES AND FRAMEWORK OF PYTHON LANGUAGE INSTALLED TO GET DONE WITH THE PROJECT.
   
   PANDAS
   
@@ -63,7 +63,7 @@ Encoded the classes as '1' and '0' to feed to the model
   SICKIT LEARN
   
 
-  USERS CAN ALSO INSTALL THESE LIBRARIES BY WRITTING THE "PIP INSTALL PANDAS, NUMPY, SEABORN, MATPLOTLIB, SICKITLEARN" IN THE TERMINAL
+  USERS CAN ALSO INSTALL THESE LIBRARIES BY WRITTING THE "PIP INSTALL PANDAS, NUMPY, SEABORN, MATPLOTLIB, SICKITLEARN" IN THE TERMINAL.
   
                                              
   USERS CAN ALSO INSTALL THESE LIBRARIES BY GIVING THE EACH PIP COMMAND FOR EACH LIBRARY SEPARETLY.
@@ -96,4 +96,5 @@ Install & import libraries
    Reflection questions 
 
 ## IDE USED :
-VS CODE INTEGRATED JUPYTER NOTEBOOK
+VS CODE INTEGRATED JUPYTER NOTEBOOK.
+.
