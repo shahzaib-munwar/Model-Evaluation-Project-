@@ -24,8 +24,6 @@ K-Nearest Neighbors (KNN)
 Random Forest
 --
 
-
-
 **Dataset USED**
 
 **Breast Cancer Dataset** imported using scikit-learn
@@ -70,4 +68,3 @@ Reflection questions
 --
 ## IDE USED :
 VS CODE INTEGRATED JUPYTER NOTEBOOK
-
