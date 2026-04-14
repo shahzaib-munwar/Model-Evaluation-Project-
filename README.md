@@ -2,6 +2,7 @@
 Shows the hands on experience on the machine learning, pandas, numpy, python, sickit learn.
 --
 **SKILLS IMPLEMENTED**
+
 Load and explore a real-world classification dataset.
 Split data into training and testing sets.
 Scale features appropriately for different models.
@@ -17,12 +18,13 @@ Plot ROC curves for model comparison
 Choose the best model based on business context
 --
  **Models Used**
+ 
 Logistic Regression
 K-Nearest Neighbors (KNN)
 Random Forest
 --
 
---
+
 
 **Dataset USED**
 
