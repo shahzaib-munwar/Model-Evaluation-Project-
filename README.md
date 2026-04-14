@@ -37,7 +37,7 @@ Encoded the classes as '1' and '0' to feed to the model
   Clean binary classification dataset, ideal for teaching evaluation metrics
 --
 
---
+
 **LIBRARIES REQUIRED**
   USER SHOULD MUST HAVE THE FOLLOWING LIBRARIES AND FRAMEWORK OF PYTHON LANGUAGE INSTALLED TO GET DONE WITH THE PROJECT
   PANDAS
@@ -47,7 +47,9 @@ Encoded the classes as '1' and '0' to feed to the model
   SICKIT LEARN
 
   USERS CAN ALSO INSTALL THESE LIBRARIES BY WRITTING THE "PIP INSTALL PANDAS, NUMPY, SEABORN, MATPLOTLIB, SICKITLEARN" IN THE TERMINAL
+  
                                                         OR
+                                                        
   USERS CAN ALSO INSTALL THESE LIBRARIES BY GIVING THE EACH PIP COMMAND FOR EACH LIBRARY SEPARETLY.
 --
 --
